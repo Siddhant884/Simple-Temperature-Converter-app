@@ -1,2 +1,2 @@
-# Temperature COnverter  
+# Temperature Converter  
 Made using Android Studio .
